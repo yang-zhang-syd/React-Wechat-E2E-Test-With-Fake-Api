@@ -1,4 +1,4 @@
-# Fake-Api-With-ExpressJs
+# React-Wechat-E2E-Test-With-Fake-Api
 
 When developing a web application, we usually do not have a working backend or the backend is 
 provided by third party. It would be handy if we can quickly build up a fake backend to 
