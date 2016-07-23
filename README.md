@@ -13,5 +13,27 @@ and usabilities of applications. When you finished developing frontend, you will
 data contract which can be used for backend development. For a larger team, frontend and backend 
 can be developed in parallel.
 
-In this example, I will demonstarte building a React web app which depends on a third party api. The
-test framework I am going to use is enzyme.
+In this example, I will demonstarte building a React web app which depends on a third party api (wechat). The
+test framework I am going to use is nightwatch.js. 
+
+### How to run?
+
+1. Install npm packages
+```bash
+$ npm install
+```
+
+2. Install selenium driver
+```bash
+$ npm run e2e-setup
+```
+
+3. Start localhost and fake api
+```bash
+$ npm start
+```
+
+4. Run e2e test
+```bash
+$ npm run e2e
+```
