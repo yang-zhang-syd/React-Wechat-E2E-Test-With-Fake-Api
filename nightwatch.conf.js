@@ -1,1 +1,1 @@
-module.exports = require('./nightwatch.json');  
+module.exports = require('./tests/nightwatch.json');  
